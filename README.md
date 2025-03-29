@@ -51,3 +51,9 @@
    flutter run
    ```
 
+Note: If you want to access admin page in this app, the id password for it is as following
+```sh
+   brbradmin@admin.com (id)
+   Brbr@Pass (password)
+   ```
+
