@@ -51,9 +51,3 @@
    flutter run
    ```
 
-## 🏗️ Future Improvements
-- **Payment Integration** for seamless transactions  
-- **Push Notifications** for appointment updates  
-- **Enhanced UI/UX** with animations and better accessibility  
-
----
